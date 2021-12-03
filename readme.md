@@ -6,3 +6,5 @@ Soil moisture is a measure of soil health, the water content present in a certai
 # What it does
 
 For this project, we will be using a node MCU ESP8266 WiFi module and a soil moisture sensor that measures the volumetric content of water inside the soil and we will send this sensor data for visualization in the Qubitro platform.
+
+<img src="https://github.com/akshitagupta15june/Qubitro-soil-health-monitoring/blob/main/Images/data-chart.png">

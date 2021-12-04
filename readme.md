@@ -20,8 +20,11 @@ Breadboard, M-F Jumper wires
 Connect the soil moisture sensor FC-28 to the ESP8266 in analog mode.
 
 VCC of FC-28 to 3.3V of ESP8266
+
 GND of FC-28 to GND of ESP8266
+
 A0 of FC-28 to A0 of ESP8266
+
 Connect the two pins from the probe to the two pins on the Amplifier circuit via jumper wires.
 
 <img src="https://github.com/akshitagupta15june/Qubitro-soil-health-monitoring/blob/main/Images/data-chart.png">

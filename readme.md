@@ -34,3 +34,6 @@ Connect the two pins from the probe to the two pins on the Amplifier circuit via
 SignUp/Login on the Qubitro Portal
 
 Create a new project with a description
+
+Create a new device with details and a description
+

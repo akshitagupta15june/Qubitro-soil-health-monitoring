@@ -28,3 +28,9 @@ A0 of FC-28 to A0 of ESP8266
 Connect the two pins from the probe to the two pins on the Amplifier circuit via jumper wires.
 
 <img src="https://github.com/akshitagupta15june/Qubitro-soil-health-monitoring/blob/main/Images/data-chart.png">
+
+# Connecting to Qubitro Platform
+
+SignUp/Login on the Qubitro Portal
+
+Create a new project with a description
